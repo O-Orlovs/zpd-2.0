@@ -1,4 +1,4 @@
-import random
+```py import random
 
 turns = ["rock","paper","scissors"]
 
@@ -15,3 +15,4 @@ elif human_turn == "scissors" and computer_turn == "paper":
     print("Human wins!")
 else:
     print("Computer wins!")
+```
